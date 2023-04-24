@@ -1,3 +1,3 @@
 # multimodal-shipping
 
-Transportation logistics data analytics for optimized management. 
+Analytics for transportation, including CO2, cost, and ETA estimation.
