@@ -1,7 +1,6 @@
-file, foo, source
-fuel-price-23-05-15.csv, , https://ec.europa.eu/energy/observatory/reports/latest_prices_raw_data.xlsx
-fuel-price-23-05-22.csv, ,
-fuel-price-23-05-29.csv, ,
-fuel-price-23-06-05.csv, ,
-fuel-price-23-06-12.csv, ,
-
+file, foo, source, bar
+"fuel-price-23-05-15.csv", , ,
+"fuel-price-23-05-22.csv", , ,
+"fuel-price-23-05-29.csv", , ,
+"fuel-price-23-06-05.csv", , ,
+"fuel-price-23-06-12.csv", , ,
