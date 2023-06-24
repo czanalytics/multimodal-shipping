@@ -1,0 +1,118 @@
+date,country,fuel,price
+2023-06-19,AT,Automotive gas oil,1.51
+2023-06-19,AT,Euro-super 95,1.57
+2023-06-19,AT,Fuel oil - Sulphur less than 1%,0.72
+2023-06-19,AT,Heating gas oil,1.09
+2023-06-19,BE,Automotive gas oil,1.67
+2023-06-19,BE,Euro-super 95,1.71
+2023-06-19,BE,Fuel oil - Sulphur less than 1%,0.45
+2023-06-19,BE,Heating gas oil,0.85
+2023-06-19,BE,LPG - motor fuel,0.59
+2023-06-19,BG,Automotive gas oil,1.23
+2023-06-19,BG,Euro-super 95,1.29
+2023-06-19,BG,LPG - motor fuel,0.45
+2023-06-19,HR,Automotive gas oil,1.44
+2023-06-19,HR,Euro-super 95,1.44
+2023-06-19,HR,Fuel oil - Sulphur less than 1%,0.78
+2023-06-19,HR,Heating gas oil,0.86
+2023-06-19,HR,LPG - motor fuel,0.9
+2023-06-19,CY,Automotive gas oil,1.38
+2023-06-19,CY,Euro-super 95,1.38
+2023-06-19,CY,Fuel oil - Sulphur less than 1%,0.8
+2023-06-19,CY,Heating gas oil,0.98
+2023-06-19,CZ,Automotive gas oil,1.34
+2023-06-19,CZ,Euro-super 95,1.56
+2023-06-19,CZ,Heating gas oil,0.94
+2023-06-19,CZ,LPG - motor fuel,0.64
+2023-06-19,DK,Automotive gas oil,1.62
+2023-06-19,DK,Euro-super 95,1.94
+2023-06-19,DK,Fuel oil - Sulphur less than 1%,1.17
+2023-06-19,DK,Heating gas oil,1.69
+2023-06-19,EE,Automotive gas oil,1.5
+2023-06-19,EE,Euro-super 95,1.7
+2023-06-19,EE,Heating gas oil,1.04
+2023-06-19,EE,LPG - motor fuel,0.69
+2023-06-19,FI,Automotive gas oil,1.8
+2023-06-19,FI,Euro-super 95,1.93
+2023-06-19,FI,Heating gas oil,1.4
+2023-06-19,FR,Automotive gas oil,1.68
+2023-06-19,FR,Euro-super 95,1.87
+2023-06-19,FR,Fuel oil - Sulphur less than 1%,0.66
+2023-06-19,FR,Heating gas oil,1.13
+2023-06-19,FR,LPG - motor fuel,0.98
+2023-06-19,DE,Automotive gas oil,1.61
+2023-06-19,DE,Euro-super 95,1.86
+2023-06-19,DE,Heating gas oil,0.98
+2023-06-19,DE,LPG - motor fuel,1.01
+2023-06-19,GR,Automotive gas oil,1.57
+2023-06-19,GR,Euro-super 95,1.87
+2023-06-19,GR,Fuel oil - Sulphur less than 1%,0.67
+2023-06-19,GR,Heating gas oil,1.26
+2023-06-19,GR,Lead substitute petrol,2.06
+2023-06-19,HU,Automotive gas oil,1.5
+2023-06-19,HU,Euro-super 95,1.55
+2023-06-19,HU,Fuel oil - Sulphur less than 1%,0.71
+2023-06-19,HU,Heating gas oil,1.5
+2023-06-19,HU,LPG - motor fuel,0.85
+2023-06-19,IE,Automotive gas oil,1.49
+2023-06-19,IE,Euro-super 95,1.61
+2023-06-19,IE,Fuel oil - Sulphur less than 1%,0.95
+2023-06-19,IE,Heating gas oil,0.89
+2023-06-19,IT,Automotive gas oil,1.68
+2023-06-19,IT,Euro-super 95,1.84
+2023-06-19,IT,Fuel oil - Sulphur less than 1%,0.62
+2023-06-19,IT,Heating gas oil,1.45
+2023-06-19,IT,LPG - motor fuel,0.73
+2023-06-19,LV,Automotive gas oil,1.41
+2023-06-19,LV,Euro-super 95,1.58
+2023-06-19,LV,Heating gas oil,0.94
+2023-06-19,LV,LPG - motor fuel,0.73
+2023-06-19,LT,Automotive gas oil,1.33
+2023-06-19,LT,Euro-super 95,1.5
+2023-06-19,LT,Fuel oil - Sulphur higher than 1%,0.34
+2023-06-19,LT,Heating gas oil,0.87
+2023-06-19,LT,LPG - motor fuel,0.59
+2023-06-19,LU,Automotive gas oil,1.43
+2023-06-19,LU,Euro-super 95,1.56
+2023-06-19,LU,Heating gas oil,0.89
+2023-06-19,LU,LPG - motor fuel,0.59
+2023-06-19,MT,Automotive gas oil,1.21
+2023-06-19,MT,Euro-super 95,1.34
+2023-06-19,MT,Heating gas oil,1.0
+2023-06-19,NL,Automotive gas oil,1.53
+2023-06-19,NL,Euro-super 95,1.83
+2023-06-19,NL,LPG - motor fuel,0.72
+2023-06-19,PL,Automotive gas oil,1.37
+2023-06-19,PL,Euro-super 95,1.46
+2023-06-19,PL,Fuel oil - Sulphur higher than 1%,0.57
+2023-06-19,PL,Fuel oil - Sulphur less than 1%,0.59
+2023-06-19,PL,Heating gas oil,1.11
+2023-06-19,PL,LPG - motor fuel,0.65
+2023-06-19,PT,Automotive gas oil,1.48
+2023-06-19,PT,Euro-super 95,1.68
+2023-06-19,PT,Fuel oil - Sulphur less than 1%,0.92
+2023-06-19,PT,Heating gas oil,1.47
+2023-06-19,PT,LPG - motor fuel,0.76
+2023-06-19,RO,Automotive gas oil,1.35
+2023-06-19,RO,Euro-super 95,1.37
+2023-06-19,RO,Fuel oil - Sulphur less than 1%,0.59
+2023-06-19,RO,Heating gas oil,1.33
+2023-06-19,RO,LPG - motor fuel,0.76
+2023-06-19,SK,Automotive gas oil,1.43
+2023-06-19,SK,Euro-super 95,1.58
+2023-06-19,SK,Fuel oil - Sulphur higher than 1%,0.65
+2023-06-19,SK,Fuel oil - Sulphur less than 1%,0.65
+2023-06-19,SK,LPG - motor fuel,0.7
+2023-06-19,SI,Automotive gas oil,1.46
+2023-06-19,SI,Euro-super 95,1.43
+2023-06-19,SI,Heating gas oil,1.06
+2023-06-19,SI,LPG - motor fuel,0.88
+2023-06-19,ES,Automotive gas oil,1.43
+2023-06-19,ES,Euro-super 95,1.6
+2023-06-19,ES,Fuel oil - Sulphur less than 1%,0.59
+2023-06-19,ES,Heating gas oil,0.93
+2023-06-19,ES,LPG - motor fuel,0.93
+2023-06-19,SE,Automotive gas oil,1.89
+2023-06-19,SE,Euro-super 95,1.7
+2023-06-19,SE,Fuel oil - Sulphur less than 1%,0.9
+2023-06-19,SE,Heating gas oil,1.19
